@@ -4,12 +4,20 @@ Welcome to the comprehensive guide for setting up a Discord server with automate
 
 ## Table of Contents
 
+
 - [Discord Server Setup Guide](#discord-server-setup-guide)
   - [Table of Contents](#table-of-contents)
+- [Discord Server Setup Guide](#discord-server-setup-guide-1)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
   - [Setup Guide](#setup-guide)
   - [Additional Resources](#additional-resources)
+
+# Discord Server Setup Guide
+
+
+   - [Auto Link upload like YouTube, Twitch, and TikTok](./Sapphire)
+  
 
 ---
 
@@ -31,7 +39,7 @@ For a detailed guide on each step, check the **Setup Guide** below.
 
 ## Setup Guide
 
-To view the full step-by-step setup instructions with images, visit the [Sapphire Setup Guide](./Sapphire).
+<!-- To view the full step-by-step setup instructions with images, visit the [Sapphire Setup Guide](./Sapphire). -->
 
 ---
 
