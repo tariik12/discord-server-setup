@@ -4,26 +4,20 @@ Welcome to the comprehensive guide for setting up a Discord server with automate
 
 ## Table of Contents
 
-
 - [Discord Server Setup Guide](#discord-server-setup-guide)
   - [Table of Contents](#table-of-contents)
-- [Discord Server Setup Guide](#discord-server-setup-guide-1)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
   - [Setup Guide](#setup-guide)
   - [Additional Resources](#additional-resources)
-
-# Discord Server Setup Guide
-
-
-   - [Auto Link upload like YouTube, Twitch, and TikTok](./Sapphire)
-  
 
 ---
 
 ## Introduction
 
 This guide will help you set up your own Discord server with customized notifications for YouTube, Twitch, and TikTok. Using the Sapphire bot, you can keep your server up-to-date with auto-posts whenever new content is uploaded.
+
+How to Set Up Free Auto Notifications for YouTube/Twitch/TikTok Uploads on Discord [Setup YouTube/Twitch/TikTok](https://github.com/tariik12/discord-server-setup/blob/main/Sapphire/Sapphire.md).
 
 ---
 
@@ -39,7 +33,7 @@ For a detailed guide on each step, check the **Setup Guide** below.
 
 ## Setup Guide
 
-<!-- To view the full step-by-step setup instructions with images, visit the [Sapphire Setup Guide](./Sapphire). -->
+To view the full step-by-step setup instructions with images, visit the [Sapphire Setup Guide](https://github.com/tariik12/discord-server-setup/blob/main/Sapphire/Sapphire.md).
 
 ---
 
