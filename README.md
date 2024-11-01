@@ -10,8 +10,8 @@ Welcome to the comprehensive guide for setting up a Discord server with automate
   - [Getting Started](#getting-started)
   - [Setup Guide](#setup-guide)
   - [Additional Resources](#additional-resources)
-
 ---
+- [Sapphire](./Sapphire/Sapphire.md): How to Set Up Free Auto Notifications for YouTube/Twitch/TikTok Uploads on Discord
 
 ## Introduction
 
